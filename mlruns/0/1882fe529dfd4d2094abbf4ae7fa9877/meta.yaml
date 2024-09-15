@@ -1,0 +1,15 @@
+artifact_uri: file:///home/puneet/Desktop/sep24_projects/lmm_proj/mlruns/0/1882fe529dfd4d2094abbf4ae7fa9877/artifacts
+end_time: 1726410903140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1882fe529dfd4d2094abbf4ae7fa9877
+run_name: victorious-moth-23
+run_uuid: 1882fe529dfd4d2094abbf4ae7fa9877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726410899245
+status: 3
+tags: []
+user_id: puneet

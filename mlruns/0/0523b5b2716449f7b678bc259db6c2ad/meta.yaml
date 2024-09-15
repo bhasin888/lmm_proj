@@ -1,0 +1,15 @@
+artifact_uri: file:///home/puneet/Desktop/sep24_projects/lmm_proj/mlruns/0/0523b5b2716449f7b678bc259db6c2ad/artifacts
+end_time: 1726410163752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0523b5b2716449f7b678bc259db6c2ad
+run_name: bold-newt-678
+run_uuid: 0523b5b2716449f7b678bc259db6c2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726410161327
+status: 3
+tags: []
+user_id: puneet

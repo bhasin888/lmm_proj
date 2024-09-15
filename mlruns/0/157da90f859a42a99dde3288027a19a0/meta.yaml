@@ -1,0 +1,15 @@
+artifact_uri: file:///home/puneet/Desktop/sep24_projects/lmm_proj/mlruns/0/157da90f859a42a99dde3288027a19a0/artifacts
+end_time: 1726410536360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 157da90f859a42a99dde3288027a19a0
+run_name: fearless-hog-262
+run_uuid: 157da90f859a42a99dde3288027a19a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726410532848
+status: 3
+tags: []
+user_id: puneet

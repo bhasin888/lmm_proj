@@ -1,0 +1,15 @@
+artifact_uri: file:///home/puneet/Desktop/sep24_projects/lmm_proj/mlruns/0/0d5a847a0e9b476982916600aa0ee2fd/artifacts
+end_time: 1726407657690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d5a847a0e9b476982916600aa0ee2fd
+run_name: popular-pig-44
+run_uuid: 0d5a847a0e9b476982916600aa0ee2fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726407655150
+status: 3
+tags: []
+user_id: puneet
